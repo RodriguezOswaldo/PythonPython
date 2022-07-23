@@ -1,8 +1,7 @@
 # This is a sample Python script.
-import guess_number
+import guess_number as gn
 # Press ⌃R to execute it or replace it with your code.
 # Press Double ⇧ to search everywhere for classes, files, tool windows, actions, and settings.
-gn= guess_number
 
 def print_hi(name):
     # Use a breakpoint in the code line below to debug your script.
